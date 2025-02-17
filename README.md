@@ -88,7 +88,7 @@
         </tr>
         <tr>
           <td class="border p-2">12th Grade</td>
-          <td class="border p-2">Bihar Board</td>
+          <td class="border p-2">CBSE</td>
           <td class="border p-2">87%</td>
         </tr>
       </table>
